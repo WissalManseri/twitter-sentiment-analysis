@@ -1,4 +1,5 @@
 # Analyse des sentiments sur Twitter
+
 Ce code en Python utilise l'API Twitter et la bibliothèque TextBlob pour analyser les sentiments des tweets contenant un terme de recherche spécifique.
 
 # Installation
